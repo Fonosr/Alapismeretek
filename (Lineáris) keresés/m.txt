@@ -1,0 +1,3 @@
+Lineáris keresés egy algoritmus amely véges nem feltétlenül numerikus tömb elemei közül megadunk egyet,amely T tulajdonságú - ha van ilyen. T egy tetszőleges tulajdonságfüggvényt jelent. 
+Sorszám - Érték
+Eldöntés + Kiválasztás

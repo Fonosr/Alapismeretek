@@ -1,0 +1,1 @@
+Sorozatszámítás egy algoritmus, amely egy véges (nem feltétlenűl numerikus) tömb elemei közül egy értéket állít elő. Az elemek közötti összefüggések az előállításkor nem használható fel.

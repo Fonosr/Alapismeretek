@@ -1,0 +1,3 @@
+Eldöntés egy algoritmus amellyel eldönthetjük, hogy egy véges (nem feltétlenül numerikus) tömb elemei között található e T tulajdonságú elem.
+T egy tetszőleges tulajdonságfüggvényt jelent, egy sorozatbeli elemre nézve ez lehet igaz vagy hamis.
+Az algoritmus az első T tulajdonságú elem után nem folytatja a keresést.

@@ -1,0 +1,3 @@
+Kiválasztás egy algoritmus amellyel egy véges nem feltétlenül numerikus tömb elemei közül megadunk egyet, amely T tulajdonságú. T egy tetszőleges tulajdonságfüggvényt jelent, sorozatbeli eleme igaz vagy hamis.
+Az algoritmus feltételezi,azt hogy biztosan van legalább egy ilyen elem.
+Sorszám - Érték
