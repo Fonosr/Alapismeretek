@@ -1,0 +1,1 @@
+Maximumkiválasztás egy algoritmus,amely egy véges (nem feltétlen numerikus) tömb elemei közül a maximálisnak megadja sorszámát,értékét.
