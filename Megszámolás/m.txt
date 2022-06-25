@@ -1,0 +1,1 @@
+Megszámlálás egy algoritmus, amely véges (nem feltétlen numerikus) tömb elemei közül megszámlálja a T tulajdonsággal rendelkezőeket. T egy tetszőleges tulajdonságfüggvényt jelent, sorozatbeli elemére tekintve ez igaz vagy hamis.
