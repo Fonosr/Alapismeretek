@@ -1,0 +1,2 @@
+A bemeneti sorozat egy-egy eleméből a kimeneti sorozat egy-egy elemét előállíja.
+Függvényszámítás tétel.
